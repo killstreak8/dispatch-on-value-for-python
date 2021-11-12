@@ -1,4 +1,4 @@
-from dispatchonvalue import *
+from .dispatchonvalue import *
 
 __all__ = ['DispatchOnValue', 'any_a', 'any_b', 'any_c', 'any_d', 'any_e',
            'any_f', 'any_g', 'any_h', 'any_i', 'any_j', 'any_k', 'any_l',
